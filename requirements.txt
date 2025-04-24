@@ -1,0 +1,7 @@
+requests
+socket
+nmap
+python-whois
+geoip2
+paramiko
+pdfkit
